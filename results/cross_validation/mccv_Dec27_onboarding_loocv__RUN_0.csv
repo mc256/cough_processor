@@ -1,0 +1,4 @@
+,file_id,pred,actual
+0,features/dnn_paper/dnn2016_1.pkl,-6.825234124537113,0
+1,features/dnn_paper/dnn2016_2.pkl,-6.004223976059512,0
+2,features/dnn_paper/dnn2016_3.pkl,-5.308791789979759,1
